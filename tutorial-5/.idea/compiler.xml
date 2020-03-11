@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="id.ac.ui.cs.advprog.tutorial-1.main" target="1.8" />
+      <module name="id.ac.ui.cs.advprog.tutorial-1.test" target="1.8" />
+      <module name="id.ac.ui.cs.advprog.tutorial-2.main" target="1.8" />
+      <module name="id.ac.ui.cs.advprog.tutorial-2.test" target="1.8" />
+      <module name="id.ac.ui.cs.advprog.tutorial-3.main" target="1.8" />
+      <module name="id.ac.ui.cs.advprog.tutorial-3.test" target="1.8" />
+      <module name="id.ac.ui.cs.advprog.tutorial-4.main" target="1.8" />
+      <module name="id.ac.ui.cs.advprog.tutorial-4.test" target="1.8" />
+      <module name="id.ac.ui.cs.advprog.tutorial-5.main" target="1.8" />
+      <module name="id.ac.ui.cs.advprog.tutorial-5.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

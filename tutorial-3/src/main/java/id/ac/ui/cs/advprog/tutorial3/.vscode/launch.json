@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mainProgram",
+            "request": "launch",
+            "mainClass": "main.java.id.ac.ui.cs.advprog.tutorial3.composite.mainProgram"
+        }
+    ]
+}
